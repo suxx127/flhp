@@ -1,0 +1,9 @@
+datasets==3.1.0
+numpy ==1.26.3
+pandas==2.2.3
+peft==0.13.2
+rouge_score==0.1.2
+scikit-learn==1.5.2
+torch==2.5.1
+tqdm==4.67.0
+transformers==4.46.2
